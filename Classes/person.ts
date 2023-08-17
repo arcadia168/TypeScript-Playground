@@ -28,7 +28,7 @@ class Person {
 }
 
 //Instantiate the new class
-let p = new Person("***REMOVED***", "***REMOVED***", "***REMOVED***@***REMOVED******REMOVED***.com", 23);
+let p = new Person("Erin", "Eland", "erin@erineland.com", 23);
 
 //Invoke method on the new class
 p.greetme();

@@ -15,7 +15,7 @@ var Person2 = (function () {
     };
     return Person2;
 }());
-var p2 = new Person2('***REMOVED***', '***REMOVED***', '***REMOVED***@***REMOVED******REMOVED***.com', 23);
+var p2 = new Person2('Erin', 'Eland', 'erin@erineland.com', 23);
 //Same as before but a much cleaner class with less code
 p2.greetMe();
 //# sourceMappingURL=person2.js.map

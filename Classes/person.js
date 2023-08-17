@@ -16,7 +16,7 @@ var Person = (function () {
     return Person;
 }());
 //Instantiate the new class
-var p = new Person("***REMOVED***", "***REMOVED***", "***REMOVED***@***REMOVED******REMOVED***.com", 23);
+var p = new Person("Erin", "Eland", "erin@erineland.com", 23);
 //Invoke method on the new class
 p.greetme();
 //# sourceMappingURL=person.js.map

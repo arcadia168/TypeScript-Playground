@@ -16,7 +16,7 @@ class Person2{
     }
 }
 
-let p2 = new Person2('***REMOVED***', '***REMOVED***', '***REMOVED***@***REMOVED******REMOVED***.com', 23);
+let p2 = new Person2('Erin', 'Eland', 'erin@erineland.com', 23);
 
 //Same as before but a much cleaner class with less code
 p2.greetMe();

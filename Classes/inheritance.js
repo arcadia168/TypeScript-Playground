@@ -49,6 +49,6 @@ var Student = (function (_super) {
     return Student;
 }(Person));
 //Instantiate and test the example inheriting class
-var student = new Student('***REMOVED***', '***REMOVED***', '***REMOVED***@***REMOVED******REMOVED***.com', 23, "12th");
+var student = new Student('Erin', 'Eland', 'erin@erineland.com', 23, "12th");
 student.greetMe();
 //# sourceMappingURL=inheritance.js.map
